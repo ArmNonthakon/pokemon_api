@@ -11,7 +11,7 @@ cd filepath
 ```
 clone ไฟล์จาก git ลงเครื่อง
 ```bash
-git clone https://github.com/ArmNonthakon/4kings.git
+git clone https://github.com/ArmNonthakon/pokemon_api.git
 ```
 เข้าไปในไฟล์โฟลเดอร์
 ```bash
