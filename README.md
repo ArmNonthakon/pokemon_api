@@ -15,7 +15,7 @@ git clone https://github.com/ArmNonthakon/pokemon_api.git
 ```
 เข้าไปในไฟล์โฟลเดอร์
 ```bash
-cd 4kings
+cd pokemon_api
 ```
 ติดตั้ง dependency ต่างๆ
 ```bash
